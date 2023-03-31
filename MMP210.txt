@@ -1,0 +1,106 @@
+Index	abbreviation	description
+1	PoCG1	posterior part of postcentral gyrus
+2	PoCG2	anterior part of postcentral gyrus
+3	PrCG1	posterior part of precentral gyrus
+4	PrCG2	anterior-superior part of precentral gyrus
+5	PrCG3	anterior-inferior part of precentral gyrus
+6	OP_c	the opercular area inferior to the central region
+7	SMA1	posterior part of supplementary motor area
+8	SMA2	anterior part of supplementary motor area 
+9	SF_sp	superior-posterior part of superior frontal gyrus
+10	PRS_s	superior part of precentral sulcus
+11	MFG1	four parts of middle frontal gyrus from posterior to anterior segments
+12	MFG2	
+13	MFG3	
+14	MFG4	
+15	IMFS_v	vertical segment of intermediate frontal sulcus
+16	IMFS_h	horizontal segment of intermediate frontal sulcus 
+17	SFS1	posterior part of superior frontal sulcus
+18	SFS2	anterior part of superior frontal sulcus
+19	SFG_s1	anterior part of superior frontal gyrus
+20	SFG_s2	posterior part of superior frontal gyrus
+21	SFG_s3	middle part of superior frontal gyrus
+22	SFG_m1	three part of medial superior frontal gyrus from posterior to anterior segments
+23	SFG_m2	
+24	SFG_m3	
+25	PRS_i	infeiror part of precentral sulcus
+26	IFS1	posterior part of inferior frontal sulcus
+27	IFS2	anterior part of inferior frontal sulcus
+28	IFG1	three part of inferior frontal gyrus from posterior to anterior segments
+29	IFG2	
+30	IFG3	
+31	FOP1	posterior-medial part of frontal opercular area
+32	FOP2	posterior-lateral part of frontal opercular area
+33	FOP3	middle part of frontal opercular area
+34	FOP4	anterior part of frontal opercular area
+35	LORG	lateral orbital gyrus
+36	IFG_or	orbital part of the inferior frontal gyrus
+37	PTG	paraterminal gyrus
+38	ROG	rostral gyrus
+39	GR	gyrus rectus
+40	PORG_m	medial part of posterior orbital gyrus
+41	PORG_l	lateral part of posterior orbital gyrus
+42	TOS1	anterior part of transverse orbital sulcus
+43	TOS2	posterior part of transverse orbital sulcus
+44	PCS1	superior part of postcentral sulcus
+45	SP1	superior part of superior parietal area
+46	PCS2	middle-posterior part of postcentral sulcus
+47	SP2	inferior part of superior parietal area
+48	IPS1	anterior-inferior part of inferior parietal sulcus
+49	IPS2	main part inferior parietal sulcus
+50	PreCu1	anterior-superior part of precuneus
+51	PreCu2	anterior-infeior part of precuneus
+52	SP3	superior-posterior part of superior parietal area
+53	PreCu3	posterior part of precuneus
+54	PCS3	inferior part of postcentral sulcus
+55	OP_p	posterior part of opercular area
+56	SMG1	superior part of supramarginal gyrus
+57	SMG2	inferior part of supramarginal gyrus
+58	IPL1	anterior-superior part of inferior parietal lobe
+59	IPL2	posterior-inferior part of inferior parietal lobe
+60	IPS3	three part of posterior inferior parietal sulcus from lateral to medial segments 
+61	IPS4	
+62	IPS5	
+63	POS	main part of parieto-occipital sulcus
+64	POS_p	an area posterior to the POS
+65	STG_p	posterior part of superior temporal gyrus
+66	TPOJ	temporal-parietal-occipital junction 
+67	STG_m	middle part of superior temporal gyrus
+68	STG_a	anterior part of superior temporal gyrus
+69	AOS	anterior occipital sulcus
+70	STS_i	infeiror part of superior temporal sulcus
+71	TE_p	posterior temporal lobe
+72	MTG	middle temporal gyrus
+73	TP_dl	dorsal-lateral part of temporal pole
+74	TP_dm	dorsal-medial part of temporal pole
+75	OTS_p	posterior part of occipitotemporal sulcus
+76	ITG_p	posterior part of inferior temporal gyrus
+77	ITG_a	anterior part of inferior temporal gyrus
+78	TP_v	ventral part of temporal pole
+79	FUS_p	posterior part of fusiform
+80	FUS_m	middle part of fusiform
+81	FUS_a	anterior part of fusiform
+82	COS_p	posterior part of collateral sulcus
+83	COS	main part of collateral sulcus
+84	PHA_p	posterior part of parahippocampus
+85	PHA_a	anterior part of parahippocampus
+86	Cing1	seven part of cingulate from posterior to anterior segments 
+87	Cing2	
+88	Cing3	
+89	Cing4	
+90	Cing5	
+91	Cing6	
+92	Cing7	
+93	calcarine1	main part of calcarine
+94	calcarine2	anterior-superior part of calcarine
+95	calcarine3	anterior-inferior part of calcarine
+96	lingual	lingual
+97	LOC_d	dorsal part of lateral occipital cortex
+98	LOC_v	ventral part of lateral occipital cortex
+99	TPM_p	posterior part of planum temporal
+100	TPM_a	anterior part of planum temporal
+101	INS_p	posterior part of insula
+102	INS_m	middle part of insula
+103	INS_as	anterior-superior part of insula
+104	INS_ai	anterior-inferior part of insula
+105	INS_a	anterior part of insula
